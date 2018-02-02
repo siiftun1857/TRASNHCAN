@@ -1,0 +1,10 @@
+nnoremap <F3> :<CR>
+nnoremap <F4> :<CR>
+nnoremap <F5> :<CR>
+nnoremap <F6> :<CR>
+nnoremap <F7> :<CR>
+nnoremap <F8> :<CR>
+nnoremap <F9> :<CR>
+nnoremap <F10> :<CR>
+nnoremap <F11> :<CR>
+nnoremap <F12> :<CR>
